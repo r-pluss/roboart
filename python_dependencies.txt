@@ -1,0 +1,4 @@
+#all currently subject to change
+
+pillow
+scipy
