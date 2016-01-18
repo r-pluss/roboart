@@ -15,3 +15,4 @@ after all changes have been added: git commit -am 'the commit message'
 
 
 #updating local repo from remote master
+git pull (this seems suspiciously simple, I think I may be missing something)
