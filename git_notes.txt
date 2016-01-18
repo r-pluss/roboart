@@ -12,6 +12,7 @@ can always double-check with git remote -v
 #copying local changes to github
 for each new file or changed file: git add file_name
 after all changes have been added: git commit -am 'the commit message'
+finally, push the commit with git push
 
 
 #updating local repo from remote master
